@@ -33,6 +33,8 @@ To start the unit testing:
 npm run test:unit
 ```
 
+Make sure to have the dev server running on port 3000 before running the e2e test.
+
 To start the integration and e2e testing:
 
 ```
